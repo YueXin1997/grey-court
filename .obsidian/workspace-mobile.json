@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "世界观/心与望.md",
+                "file": "世界观/基础世界观.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心与望"
+              "title": "基础世界观"
             }
           }
         ]
@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#心与望",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "92007dc38779ce43",
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "世界观/心与望.md",
+            "file": "世界观/基础世界观.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "世界观/心与望.md",
+            "file": "世界观/基础世界观.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "世界观/心与望.md",
+            "file": "世界观/基础世界观.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -175,6 +175,8 @@
   },
   "active": "d8617f8ccfb08ec8",
   "lastOpenFiles": [
-    "世界观/心与望.md"
+    "世界观/心与望.md",
+    "世界观/基础世界观.md",
+    "世界观/枢院.md"
   ]
 }
