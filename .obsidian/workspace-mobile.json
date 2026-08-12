@@ -63,8 +63,7 @@
               "title": "罗兰·维利耶"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,8 +215,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "03f9fdbdb051491b",
+  "active": "d8617f8ccfb08ec8",
   "lastOpenFiles": [
+    "人物/寂月",
     "世界观/枢院/铸铁枢院.md",
     "人物/罗兰·维利耶.md",
     "世界观/枢院/慈生枢院.md",
