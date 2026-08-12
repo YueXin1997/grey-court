@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人物/寂月.md",
+                "file": "人物/罗兰·维利耶.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "寂月"
+              "title": "罗兰·维利耶"
+            }
+          },
+          {
+            "id": "cf6ed67211ae0107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人物/罗兰·维利耶.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "罗兰·维利耶"
             }
           },
           {
@@ -63,7 +77,8 @@
               "title": "罗兰·维利耶"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "世界观/枢院/铸铁枢院.md",
+            "file": "人物/罗兰·维利耶.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -215,8 +230,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d8617f8ccfb08ec8",
+  "active": "cf6ed67211ae0107",
   "lastOpenFiles": [
+    "人物/安洁莉卡.md",
     "人物/罗兰·维利耶.md",
     "人物/寂月.md",
     "世界观/枢院/枢院基础设定.md",
